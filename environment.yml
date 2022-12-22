@@ -1,0 +1,8 @@
+name: afdbtrim
+dependencies:
+  - python>=3.8
+  - pandas
+  - numpy
+  - biopython
+  - pip:
+     - git+https://github.com/BioComputingUP/AlphaFold-disorder.git
